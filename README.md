@@ -17,6 +17,14 @@ git clone https://github.com/datvp09/TestVentive.git
 
 cd TestVentive && npm install
 
+cd ios
+
+pod install && pod update
+```
+Make sure SDK Enviroment is setup properly and run:
+```
+cd ..
+
 react-native run-android/ios
 ```
 
