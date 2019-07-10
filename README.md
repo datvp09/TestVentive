@@ -12,9 +12,13 @@ This app runs on react native v0.60.0. Sample Navigation App's features:<br />
     * Info
 
 Setup project:
-> git clone https://github.com/datvp09/TestVentive.git<br />
-> cd TestVentive && npm install<br />
-> react-native run-android/ios
+```
+git clone https://github.com/datvp09/TestVentive.git
+
+cd TestVentive && npm install
+
+react-native run-android/ios
+```
 
 Default profile<br />
 * Username: admin<br />
